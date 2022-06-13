@@ -13,6 +13,7 @@
 *- участков Z-ДНК с zh-score > 500
 ## 2. Распределение участнов Z-ДНК
 Распределение Z-ДНК по промоторам, гену и межгенному пространству:
+
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/173431937-84d3ca8a-ce69-4eb6-8b9b-a16dab3672f1.png">
 
 ## 3. Гистограмма значений zh-score 
@@ -22,10 +23,6 @@
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/93148620/173432376-cb89971b-2291-48fb-87d8-9d589374df01.png">
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/93148620/173432413-74f16a7e-5024-4831-8e16-2426a0e5725e.png">
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/93148620/173432478-312a0286-89a4-46a7-953b-842a60a37028.png">
-
-Попытка отобразить распредление значений zh-score по всему геному. Зеленым обозначены участки Z-DNA, размер столбца описывает величину zh-score. Красным - аннотированные гены.  
-GCF_001304615 2_ASM130461v2:
-
 
 ## 4. Z-ДНК и гомологичные гены разных организмов
 ### 4.1 Информация по полученным гомологичным кластерам
@@ -238,6 +235,7 @@ AGFSGLSNMINGTP---DTPNAVPGLRGPAVASV-TPDGP---EMPAAALGYAER
 
 ## 4.4. Визуализация расположения участков Z-DNA
 Я выбрала 6 кластеров. 
+
 ![кластер1](https://user-images.githubusercontent.com/93148620/173436827-2df79850-3be7-4a58-bb7e-0fd65bd8a0c9.png)
 ![Кластер2](https://user-images.githubusercontent.com/93148620/173436866-fcf5d03d-4233-4015-8110-a8290cd9a232.png)
 ![Кластер3](https://user-images.githubusercontent.com/93148620/173436915-29d280b4-5268-4347-a530-6918c6753072.png)
