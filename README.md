@@ -18,6 +18,7 @@
 
 ## 3. Гистограмма значений zh-score 
 Гистограммы значений zh-score для выбранных геномов: 
+
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/93148620/173432160-a02e99a6-c7e7-4bb6-87c2-8143ab1cf3a9.png">
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/93148620/173432326-3abf6849-21d6-4d7e-9e7c-b8a90a5c727b.png">
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/93148620/173432376-cb89971b-2291-48fb-87d8-9d589374df01.png">
