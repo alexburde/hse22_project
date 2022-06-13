@@ -30,6 +30,228 @@
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/93148620/173435543-2cafdde1-db16-495f-bb54-059fd359bfd1.png">
 
 ### 4.2. Таблица с информацией по выбранным кластерам
+<table>
+    <thead>
+        <tr>
+            <th>Кластера</th>
+            <th>Кол-во генов</th>
+            <th>Гены</th>
+            <th>Функции генов</th>
+            <th>Расположение Z-ДНК</th>
+            <th>Z-Hunt score</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5>Cluster 1</td>
+            <td rowspan=5>5</td>
+            <td rowspan=1>WP_015685937.1</td>
+            <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
+            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>1201</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_015666726.1</td>
+            <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
+            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>2962</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_094890408.1</td>
+            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
+            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>2962</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_151650075.1</td>
+            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
+            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>2962</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_172648017.1</td>
+            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
+            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>1201</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=5>Cluster 2</td>
+            <td rowspan=5>5</td>
+            <td rowspan=1>WP_015685457.1</td>
+            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>908</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_015666189.1</td>
+            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>908</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_094892032.1</td>
+            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>908</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_151649691.1</td>
+            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>908</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_018272086.1</td>
+            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>908</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=5>Cluster 3</td>
+            <td rowspan=5>5</td>
+            <td rowspan=1>WP_015685895.1.1</td>
+            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_015666663.1</td>
+            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>2943</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_094890443.1</td>
+            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>2943</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_151650043.1</td>
+            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>2943</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_026192730.1</td>
+            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=5>Cluster 4</td>
+            <td rowspan=5>5</td>
+            <td rowspan=1>WP_015685883.1</td>
+            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>731, 783</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_015666659.1</td>
+            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>731</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_094890457.1</td>
+            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>731</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_151650028.1</td>
+            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>731</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_016842487.1</td>
+            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>731</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=5>Cluster 5</td>
+            <td rowspan=5>5</td>
+            <td rowspan=1>WP_015688041.1</td>
+            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>Нет</td>
+            <td rowspan=1>-</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_015668717.1</td>
+            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>959</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_094892725.1</td>
+            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>4576</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_151643413.1</td>
+            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>959</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_172647090.1</td>
+            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>1122</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=5>Cluster 6</td>
+            <td rowspan=5>5</td>
+            <td rowspan=1>WP_041748545.1</td>
+            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_015669248.1</td>
+            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_094895021.1</td>
+            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>Нет</td>
+            <td rowspan=1>-</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_151644160.1</td>
+            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_172648516.1</td>
+            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### 4.3. Множественное белковое выравнивание
 
