@@ -22,7 +22,7 @@
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/173431937-84d3ca8a-ce69-4eb6-8b9b-a16dab3672f1.png">
 
-## 3. Гистограмма значений zh-score  
+## 3. Гистограмма значений ZH-score  
 
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/93148620/173432160-a02e99a6-c7e7-4bb6-87c2-8143ab1cf3a9.png">
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/93148620/173432326-3abf6849-21d6-4d7e-9e7c-b8a90a5c727b.png">
@@ -30,7 +30,7 @@
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/93148620/173432413-74f16a7e-5024-4831-8e16-2426a0e5725e.png">
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/93148620/173432478-312a0286-89a4-46a7-953b-842a60a37028.png">
 
-## 4. Z-ДНК и гомологичные гены разных организмов
+## Z-ДНК и гомологичные гены разных организмов
 ### 4.1 Информация по полученным гомологичным кластерам
 Всего кластеров: 7200 
 
@@ -46,7 +46,7 @@
             <th>Кол-во генов</th>
             <th>Гены</th>
             <th>Функции генов</th>
-            <th>Расположение Z-ДНК</th>
+            <th>Z-ДНК вместе с расположением</th>
             <th>Z-Hunt score</th>
         </tr>
     </thead>
@@ -56,31 +56,31 @@
             <td rowspan=5>5</td>
             <td rowspan=1>WP_015685937.1</td>
             <td rowspan=1>DUF296 domain-containing protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>Z-ДНК:36, где 5 из них в промоторе</td>
             <td rowspan=1>4546, 981, 3429, 138924, 138924, 13714</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015666726.1</td>
                         <td rowspan=1>DUF296 domain-containing protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>981, 2997, 981, 884, 2943, 884, 2761</td>
         </tr>
         <tr>
             <td rowspan=1>WP_094890408.1</td>
             <td rowspan=1>DUF296 domain-containing protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>884, 138924,28781, 138924, 3429, 884, 981, 981 </td>
         </tr>
         <tr>
             <td rowspan=1>WP_151650075.1</td>
             <td rowspan=1>DUF296 domain-containing protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>4546, 1693, 3429, 28781, 8923, 13714</td>
         </tr>
         <tr>
             <td rowspan=1>WP_172648017.1</td>
             <td rowspan=1>DUF296 domain-containing protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>38834, 1229, 2264, 884, 13714, 1431, 4546</td>
         </tr>
     </tbody>
@@ -90,31 +90,31 @@
             <td rowspan=5>5</td>
             <td rowspan=1>WP_015685457.1</td>
             <td rowspan=1>NUDIX hydrolase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>3429, 884, 981, 13713, 884, 762, 908, 908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015666189.1</td>
             <td rowspan=1>NUDIX hydrolase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>3429, 2752, 1627, 3429, 884, 884, 884</td>
         </tr>
         <tr>
             <td rowspan=1>WP_094892032.1</td>
             <td rowspan=1>NUDIX hydrolase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>1117, 908, 884, 908, 13714, 884, 981, 884, 884</td>
         </tr>
         <tr>
             <td rowspan=1>WP_151649691.1</td>
             <td rowspan=1>NUDIX hydrolase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>884, 884, 981, 138924, 884, 908, 884, 908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_018272086.1</td>
             <td rowspan=1>NUDIX hydrolase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>36, где 5 из них в промоторе</td>
             <td rowspan=1>3429, 884, 884,884, 908 </td>
         </tr>
     </tbody>
@@ -124,31 +124,31 @@
             <td rowspan=5>5</td>
             <td rowspan=1>WP_015685895.1</td>
             <td rowspan=1>sel1 repeat family protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>37, где 5 из них в промоторе</td>
             <td rowspan=1>1738, 3429, 8923, 13714, 13714, 981</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015666663.1</td>
             <td rowspan=1>sel1 repeat family protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>37, где 5 из них в промоторе</td>
             <td rowspan=1>884, 570, 2963, 884, 13714, 13714, 981</td>
         </tr>
         <tr>
             <td rowspan=1>WP_094890443.1</td>
             <td rowspan=1>sel1 repeat family protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>37, где 5 из них в промоторе</td>
             <td rowspan=1>13714, 884, 884, 884, 1117, 3429</td>
         </tr>
         <tr>
             <td rowspan=1>WP_151650043.1</td>
             <td rowspan=1>sel1 repeat family protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>37, где 5 из них в промоторе</td>
             <td rowspan=1>1738, 3429, 884, 8923, 506, 884, 981</td>
         </tr>
         <tr>
             <td rowspan=1>WP_026192730.1</td>
             <td rowspan=1>sel1 repeat family protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>37, где 5 из них в промоторе</td>
             <td rowspan=1>884, 981, 1356, 865, 13714, 1516, 884, 784</td>
         </tr>
     </tbody>
@@ -158,31 +158,31 @@
             <td rowspan=5>5</td>
             <td rowspan=1>WP_015685883.1</td>
             <td rowspan=1>dihydrolipoyl dehydrogenase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>24, где 5 из них в промоторе</td>
             <td rowspan=1>1203, 1091, 981, 981, 3429,784</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015666659.1</td>
             <td rowspan=1>dihydrolipoyl dehydrogenase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>24, где 5 из них в промоторе</td>
             <td rowspan=1>884, 1091, 3429, 579</td>
         </tr>
         <tr>
             <td rowspan=1>WP_094890457.1</td>
             <td rowspan=1>dihydrolipoyl dehydrogenase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>24, где 5 из них в промоторе</td>
             <td rowspan=1>884, 3429, 981, 1091, 740</td>
         </tr>
         <tr>
             <td rowspan=1>WP_151650028.1</td>
             <td rowspan=1>dihydrolipoyl dehydrogenase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>24, где 5 из них в промоторе</td>
             <td rowspan=1>884, 1091, 3429, 3429, </td>
         </tr>
         <tr>
             <td rowspan=1>WP_016842487.1</td>
             <td rowspan=1>dihydrolipoyl dehydrogenase</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>24, где 5 из них в промоторе</td>
             <td rowspan=1>3993, 1091, 3429, 784, 4325</td>
         </tr>
     </tbody>
@@ -192,31 +192,31 @@
             <td rowspan=5>5</td>
             <td rowspan=1>WP_015688041.1</td>
             <td rowspan=1>DeoR/GlpR family DNA-binding transcription regulator</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>33, где 5 из них в промоторе</td>
             <td rowspan=1>884, 981, 1091, 884, 3429</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015668717.1</td>
             <td rowspan=1>DeoR/GlpR family DNA-binding transcription regulator</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>33, где 5 из них в промоторе</td>
             <td rowspan=1>570, 908, 981, 810, 1091, 506</td>
         </tr>
         <tr>
             <td rowspan=1>WP_094892725.1</td>
             <td rowspan=1>DeoR/GlpR family DNA-binding transcription regulator</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>33, где 5 из них в промоторе</td>
             <td rowspan=1>981, 1091, 1091, 1203, 981, 884, 2173</td>
         </tr>
         <tr>
             <td rowspan=1>WP_151643413.1</td>
             <td rowspan=1>DeoR/GlpR family DNA-binding transcription regulator</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>33, где 5 из них в промоторе</td>
             <td rowspan=1>884, 981, 1203, 1091, 884, 3429</td>
         </tr>
         <tr>
             <td rowspan=1>WP_172647090.1</td>
             <td rowspan=1>DeoR/GlpR family DNA-binding transcription regulator</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>33, где 5 из них в промоторе</td>
             <td rowspan=1>138924, 884, 1091, 981, 908, 884</td>
         </tr>
     </tbody>
@@ -226,31 +226,31 @@
             <td rowspan=5>5</td>
             <td rowspan=1>WP_041748545.1</td>
             <td rowspan=1>hypothetical protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>17, где 5 из них в промоторе</td>
             <td rowspan=1>3429, 2091 </td>
         </tr>
         <tr>
             <td rowspan=1>WP_015669248.1</td>
             <td rowspan=1>hypothetical protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>17, где 5 из них в промоторе</td>
             <td rowspan=1>803, 884, 13714, 884, 3429</td>
         </tr>
         <tr>
             <td rowspan=1>WP_094895021.1</td>
             <td rowspan=1>hypothetical protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>17, где 5 из них в промоторе</td>
             <td rowspan=1>3429</td>
         </tr>
         <tr>
             <td rowspan=1>WP_151644160.1</td>
             <td rowspan=1>hypothetical protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>17, где 5 из них в промоторе</td>
             <td rowspan=1>3429, 8323</td>
         </tr>
         <tr>
             <td rowspan=1>WP_172648516.1</td>
             <td rowspan=1>hypothetical protein</td>
-            <td rowspan=1>Промотор</td>
+            <td rowspan=1>17, где 5 из них в промоторе</td>
             <td rowspan=1>884, 3429, 961, 28781, 8323, 753, 3429</td>
         </tr>
     </tbody>
