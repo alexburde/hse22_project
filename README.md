@@ -19,7 +19,6 @@
 
 
 ## 2. Распределение участнов Z-ДНК
-Распределение Z-ДНК по промоторам, гену и межгенному пространству:
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/173431937-84d3ca8a-ce69-4eb6-8b9b-a16dab3672f1.png">
 
@@ -39,7 +38,7 @@
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/93148620/173435543-2cafdde1-db16-495f-bb54-059fd359bfd1.png">
 
-### 4.2. Таблица с информацией по выбранным кластерам
+### 4.2. Таблица по выбранным кластерам
 <table>
     <thead>
         <tr>
