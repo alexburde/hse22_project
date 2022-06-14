@@ -1,6 +1,8 @@
 # hse22_project
 Ссылка на колаб:https://colab.research.google.com/drive/1-XZnVvL7X2_hERvxX8N2cNnm39-LEjPp?usp=sharing
+
 Выбранный таксон: Alphaproteobacteria
+
 Род: Bradyrhizobium
 
 ## 1. Таблица аннотированных генов
